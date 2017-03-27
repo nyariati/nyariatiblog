@@ -3,7 +3,7 @@ layout: post
 title:  "Testing"
 date:   2017-03-27 20:45:18 +0200
 categories: jekyll update
----
+
 layout: swagger
 title: Example 1
 consumes:
